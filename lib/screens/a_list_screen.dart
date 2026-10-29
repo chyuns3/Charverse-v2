@@ -13,6 +13,7 @@
 // └────────────────────────────────────────────────────────────────────────────┘
 // 전환: A → B 는 쌓기(Navigator.push). 적응형: LayoutBuilder 600dp 분기 1곳(A-2 ↔ A-3).
 // P번호 = 닐슨 원칙 번호 (docs/디자인가이드.md 2장). 그 원칙을 보여 주는 위젯 줄 끝에 `// A-4 P01` 처럼 단다.
+import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 
 import '../api.dart';
@@ -193,10 +194,30 @@ class _ListScreenState extends State<ListScreen> {
   // STATE: 선택된 획수 필터
   String? _selectedStrokeTag;
 
+  // STATE: 메인 허브 문자 영역 순서 (허브 뷰가 사라졌다 돌아와도 유지)
+  final List<String> _hubOrder =
+      _hubCategories.map((category) => category.key).toList();
+
+  // STATE: 폰트 로드 횟수 → 태그 줄을 새로 그려 칩 너비 재계산
+  // (웹은 'あ행'의 '행' 같은 대체 폰트를 늦게 받아, 처음 그린 칩이 좁게 남는다)
+  int _fontGeneration = 0;
+
+  @override
+  void initState() {
+    super.initState();
+    PaintingBinding.instance.systemFonts.addListener(_onSystemFontsChanged);
+  }
+
   @override
   void dispose() {
+    PaintingBinding.instance.systemFonts.removeListener(_onSystemFontsChanged);
     _searchController.dispose();
     super.dispose();
+  }
+
+  void _onSystemFontsChanged() {
+    if (!mounted) return;
+    setState(() => _fontGeneration++);
   }
 
   // 다시 시도 = Future만 새로 만드는 setState
@@ -374,6 +395,13 @@ class _ListScreenState extends State<ListScreen> {
                   return _HubListView(
                     favoriteCount: _favoriteIds.length,
                     progressByCategory: progressByCategory,
+                    orderedKeys: _hubOrder,
+                    onReorder: (oldIndex, newIndex) {
+                      setState(() {
+                        final key = _hubOrder.removeAt(oldIndex);
+                        _hubOrder.insert(newIndex, key);
+                      });
+                    },
                     onSelectCategory: (cat) {
                       setState(() {
                         _selectedCategory = cat;
@@ -504,10 +532,15 @@ class _ListScreenState extends State<ListScreen> {
                   ),
                 ),
                 if (generalTags.isNotEmpty || strokeTags.isNotEmpty)
-                  SizedBox(
-                    height: 48,
+                  // 좁은 창에서도 태그 줄을 마우스·터치로 끌어 좌우 이동 (스크롤바 없음)
+                  ScrollConfiguration(
+                    key: ValueKey(_fontGeneration),
+                    behavior: ScrollConfiguration.of(context).copyWith(
+                      dragDevices: PointerDeviceKind.values.toSet(),
+                      scrollbars: false,
+                    ),
                     child: SingleChildScrollView(
-                      padding: const EdgeInsets.symmetric(horizontal: 16),
+                      padding: const EdgeInsets.fromLTRB(16, 4, 16, 4),
                       scrollDirection: Axis.horizontal,
                       child: Row(
                         children: [
@@ -524,9 +557,10 @@ class _ListScreenState extends State<ListScreen> {
                           ],
                           if (strokeTags.isNotEmpty)
                             Container(
-                              height: 32,
-                              padding:
-                                  const EdgeInsets.symmetric(horizontal: 12),
+                              padding: const EdgeInsets.symmetric(
+                                horizontal: 12,
+                                vertical: 6,
+                              ),
                               decoration: BoxDecoration(
                                 color: _selectedStrokeTag == null
                                     ? theme.colorScheme.surfaceContainerLow
@@ -539,6 +573,7 @@ class _ListScreenState extends State<ListScreen> {
                               child: DropdownButtonHideUnderline(
                                 child: DropdownButton<String>(
                                   value: _selectedStrokeTag,
+                                  isDense: true,
                                   hint: Text(
                                     '획수',
                                     style: theme.textTheme.labelLarge?.copyWith(
@@ -652,11 +687,15 @@ class _HubListView extends StatefulWidget {
   const _HubListView({
     required this.favoriteCount,
     required this.progressByCategory,
+    required this.orderedKeys,
+    required this.onReorder,
     required this.onSelectCategory,
   });
 
   final int favoriteCount;
   final Map<String, String> progressByCategory;
+  final List<String> orderedKeys;
+  final void Function(int oldIndex, int newIndex) onReorder;
   final ValueChanged<String> onSelectCategory;
 
   @override
@@ -664,9 +703,6 @@ class _HubListView extends StatefulWidget {
 }
 
 class _HubListViewState extends State<_HubListView> {
-  late final List<String> _orderedKeys =
-      _hubCategories.map((category) => category.key).toList();
-
   Map<String, Object> _categoryByKey(String key) {
     final category = _hubCategories.firstWhere((item) => item.key == key);
     return {
@@ -719,15 +755,10 @@ class _HubListViewState extends State<_HubListView> {
           child: ReorderableListView.builder(
             padding: const EdgeInsets.only(bottom: 16),
             buildDefaultDragHandles: false,
-            itemCount: _orderedKeys.length,
-            onReorderItem: (oldIndex, newIndex) {
-              setState(() {
-                final key = _orderedKeys.removeAt(oldIndex);
-                _orderedKeys.insert(newIndex, key);
-              });
-            },
+            itemCount: widget.orderedKeys.length,
+            onReorderItem: widget.onReorder,
             itemBuilder: (context, index) {
-              final category = _categoryByKey(_orderedKeys[index]);
+              final category = _categoryByKey(widget.orderedKeys[index]);
               final key = category['key'] as String;
               final name = category['name'] as String;
               final english = category['english'] as String;
