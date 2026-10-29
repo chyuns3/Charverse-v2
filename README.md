@@ -18,15 +18,27 @@ Charverse v2
 - 사용 상황: 휴대폰의 짧은 학습 세션에서 글자를 검색하고 따라 쓴다. 넓은 창에서는 문자 목록과 캐릭터 보관함을 다열로 살펴본다.
 
 ### 스크린샷
-제출용 앱 캡처는 아직 `docs/screenshots/`에 저장되지 않았다. 아래 파일을 실제 Charverse 화면 캡처로 추가해야 한다. 대화에 첨부된 유사앱 캡처는 참고 자료이며 Charverse 화면 캡처로 대체하지 않는다.
+Charverse 화면 캡처는 `docs/screenshots/`의 `01_`~`13_` 파일, 원칙별 시연 캡처는 `시연_P01`~`P10` 파일이다. 유사앱 참고 캡처(`ref_robokana_*`, `ref_iroiro_*`)는 Charverse 화면이 아니다.
 
-| 필요한 캡처 | 파일명 | 상태 |
-|---|---|---|
-| 재설계 기준 앱 v1 | `01_v1_current.png` | 기준 앱 미확정 · 캡처 미첨부 |
-| Charverse 화면 A | `02_v2_a.png` | 미첨부 |
-| Charverse 화면 B + C 진단서 모달 | `03_v2_b.png` | 미첨부 |
-| Charverse 화면 D 보관함 | `04_v2_d.png` | 미첨부 |
-| 넓은 창 적응형 화면 | `05_v2_wide.png` | 미첨부 |
+| 화면 | 캡처 |
+|---|---|
+| A 문자 영역 허브 | [02_허브_첫화면](docs/screenshots/02_허브_첫화면.png) |
+| A 글자 목록 | [06_히라가나_글자목록](docs/screenshots/06_히라가나_글자목록.png) · [03_한자_글자목록](docs/screenshots/03_한자_글자목록.png) |
+| B 학습 상세 | [07_い_따라쓰기](docs/screenshots/07_い_따라쓰기.png) · [04_한자十_상세](docs/screenshots/04_한자十_상세.png) |
+| C 진단서 모달 | [시연_P10_AI진단서](docs/screenshots/시연_P10_AI진단서.png) |
+| 학습 완료·캐릭터 획득 | [08_い_캐릭터획득](docs/screenshots/08_い_캐릭터획득.png) |
+| D 캐릭터 보관함 | [09_보관함_미확인표시](docs/screenshots/09_보관함_미확인표시.png) · [10_보관함_테마적용](docs/screenshots/10_보관함_테마적용.png) |
+| 넓은 창 적응형 화면 | [05_넓은화면_글자목록](docs/screenshots/05_넓은화면_글자목록.png) |
+| 캐릭터 테마 적용 후 | [11_한글_글자목록_테마](docs/screenshots/11_한글_글자목록_테마.png) |
+
+<p>
+  <img src="docs/screenshots/02_허브_첫화면.png" width="180" alt="A 허브">
+  <img src="docs/screenshots/06_히라가나_글자목록.png" width="180" alt="A 글자 목록">
+  <img src="docs/screenshots/07_い_따라쓰기.png" width="180" alt="B 따라 쓰기">
+  <img src="docs/screenshots/10_보관함_테마적용.png" width="180" alt="D 보관함">
+</p>
+
+재설계 기준 앱(v1)은 정하지 않았다. 리뷰 표본의 두 앱은 유사앱으로 분석했다(`docs/디자인가이드.md` 1장).
 
 ### 설명
 1. Charverse v2는 한글 자모, 히라가나, 가타카나, 기초 한자를 검색하고 직접 써 보며 익히는 UI 프로토타입이다. 학습 완료 캐릭터를 보관함에서 확인할 수 있다.
