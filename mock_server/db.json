@@ -1,0 +1,1824 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "한글 '기역 (ㄱ)'",
+      "subtitle": "총 1획 · 첫소리 자음의 기본 획",
+      "image": "https://picsum.photos/seed/char_h_g/400/300",
+      "tags": [
+        "한글",
+        "기본 자음",
+        "1획"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "한글 '니은 (ㄴ)'",
+      "subtitle": "총 1획 · 부드럽게 꺾이는 획",
+      "image": "https://picsum.photos/seed/char_h_n/400/300",
+      "tags": [
+        "한글",
+        "기본 자음",
+        "1획"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "한글 '디귿 (ㄷ)'",
+      "subtitle": "총 2획 · 반듯한 ㄷ 모양의 획",
+      "image": "https://picsum.photos/seed/char_h_d/400/300",
+      "tags": [
+        "한글",
+        "기본 자음",
+        "2획"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "한글 '리을 (ㄹ)'",
+      "subtitle": "총 3획 · 지그재그 유려한 획순",
+      "image": "https://picsum.photos/seed/char_h_r/400/300",
+      "tags": [
+        "한글",
+        "기본 자음",
+        "3획"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "한글 '미음 (ㅁ)'",
+      "subtitle": "총 3획 · 반듯한 사각형 획",
+      "image": "https://picsum.photos/seed/char_h_m/400/300",
+      "tags": [
+        "한글",
+        "기본 자음",
+        "3획"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "한글 '비읍 (ㅂ)'",
+      "subtitle": "총 4획 · 두 기둥과 받침의 균형",
+      "image": "https://picsum.photos/seed/char_h_b/400/300",
+      "tags": [
+        "한글",
+        "기본 자음",
+        "4획"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "한글 '시옷 (ㅅ)'",
+      "subtitle": "총 2획 · 좌우로 뻗은 두 다리",
+      "image": "https://picsum.photos/seed/char_h_s/400/300",
+      "tags": [
+        "한글",
+        "기본 자음",
+        "2획"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "한글 '이응 (ㅇ)'",
+      "subtitle": "총 1획 · 둥글고 원만한 곡선",
+      "image": "https://picsum.photos/seed/char_h_ng/400/300",
+      "tags": [
+        "한글",
+        "기본 자음",
+        "1획"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "한글 '지읒 (ㅈ)'",
+      "subtitle": "총 2획 · 가로획과 삐침의 조화",
+      "image": "https://picsum.photos/seed/char_h_j/400/300",
+      "tags": [
+        "한글",
+        "기본 자음",
+        "2획"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "한글 '치읓 (ㅊ)'",
+      "subtitle": "총 3획 · 머리 위의 갓 획 포인트",
+      "image": "https://picsum.photos/seed/char_h_ch/400/300",
+      "tags": [
+        "한글",
+        "기본 자음",
+        "3획"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "한글 '키읔 (ㅋ)'",
+      "subtitle": "총 2획 · 기역에 더해진 힘찬 가운데 획",
+      "image": "https://picsum.photos/seed/char_h_k/400/300",
+      "tags": [
+        "한글",
+        "기본 자음",
+        "2획"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "한글 '티읕 (ㅌ)'",
+      "subtitle": "총 3획 · 세 개의 수평선과 기둥",
+      "image": "https://picsum.photos/seed/char_h_t/400/300",
+      "tags": [
+        "한글",
+        "기본 자음",
+        "3획"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "한글 '피읖 (ㅍ)'",
+      "subtitle": "총 4획 · 위아래 덮개와 기둥",
+      "image": "https://picsum.photos/seed/char_h_p/400/300",
+      "tags": [
+        "한글",
+        "기본 자음",
+        "4획"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "한글 '히읗 (ㅎ)'",
+      "subtitle": "총 3획 · 모자와 둥근 몸체",
+      "image": "https://picsum.photos/seed/char_h_h/400/300",
+      "tags": [
+        "한글",
+        "기본 자음",
+        "3획"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "한글 '쌍기역 (ㄲ)'",
+      "subtitle": "총 2획 · 두 개의 기역이 나란히",
+      "image": "https://picsum.photos/seed/char_h_kk/400/300",
+      "tags": [
+        "한글",
+        "쌍자음",
+        "2획"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "한글 '쌍디귿 (ㄸ)'",
+      "subtitle": "총 4획 · 다정한 두 디귿의 결합",
+      "image": "https://picsum.photos/seed/char_h_tt/400/300",
+      "tags": [
+        "한글",
+        "쌍자음",
+        "4획"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "한글 '쌍비읍 (ㅃ)'",
+      "subtitle": "총 8획 · 단단하게 맞닿은 두 비읍",
+      "image": "https://picsum.photos/seed/char_h_pp/400/300",
+      "tags": [
+        "한글",
+        "쌍자음",
+        "8획"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "한글 '쌍시옷 (ㅆ)'",
+      "subtitle": "총 4획 · 나란히 솟은 두 시옷",
+      "image": "https://picsum.photos/seed/char_h_ss/400/300",
+      "tags": [
+        "한글",
+        "쌍자음",
+        "4획"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "한글 '쌍지읒 (ㅉ)'",
+      "subtitle": "총 4획 · 두 지읒의 경쾌한 발걸음",
+      "image": "https://picsum.photos/seed/char_h_jj/400/300",
+      "tags": [
+        "한글",
+        "쌍자음",
+        "4획"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "한글 '아 (ㅏ)'",
+      "subtitle": "총 2획 · 오른쪽으로 뻗은 밝은 획",
+      "image": "https://picsum.photos/seed/char_hv_a/400/300",
+      "tags": [
+        "한글",
+        "기본 모음",
+        "2획"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "한글 '야 (ㅑ)'",
+      "subtitle": "총 3획 · 두 개의 곁가지가 돋은 모음",
+      "image": "https://picsum.photos/seed/char_hv_ya/400/300",
+      "tags": [
+        "한글",
+        "기본 모음",
+        "3획"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "한글 '어 (ㅓ)'",
+      "subtitle": "총 2획 · 안쪽으로 품어주는 획",
+      "image": "https://picsum.photos/seed/char_hv_eo/400/300",
+      "tags": [
+        "한글",
+        "기본 모음",
+        "2획"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "한글 '여 (ㅕ)'",
+      "subtitle": "총 3획 · 안쪽으로 뻗은 두 곁가지",
+      "image": "https://picsum.photos/seed/char_hv_yeo/400/300",
+      "tags": [
+        "한글",
+        "기본 모음",
+        "3획"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "한글 '오 (ㅗ)'",
+      "subtitle": "총 2획 · 하늘을 향해 우뚝 솟은 획",
+      "image": "https://picsum.photos/seed/char_hv_o/400/300",
+      "tags": [
+        "한글",
+        "기본 모음",
+        "2획"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "한글 '요 (ㅛ)'",
+      "subtitle": "총 3획 · 쌍으로 솟아오른 기둥",
+      "image": "https://picsum.photos/seed/char_hv_yo/400/300",
+      "tags": [
+        "한글",
+        "기본 모음",
+        "3획"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "한글 '우 (ㅜ)'",
+      "subtitle": "총 2획 · 땅을 향해 든든히 뿌리내린 획",
+      "image": "https://picsum.photos/seed/char_hv_u/400/300",
+      "tags": [
+        "한글",
+        "기본 모음",
+        "2획"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "한글 '유 (ㅠ)'",
+      "subtitle": "총 3획 · 아래로 떨어지는 두 갈래 빗방울",
+      "image": "https://picsum.photos/seed/char_hv_yu/400/300",
+      "tags": [
+        "한글",
+        "기본 모음",
+        "3획"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "한글 '으 (ㅡ)'",
+      "subtitle": "총 1획 · 지평선처럼 곧게 뻗은 수평선",
+      "image": "https://picsum.photos/seed/char_hv_eu/400/300",
+      "tags": [
+        "한글",
+        "기본 모음",
+        "1획"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "한글 '이 (ㅣ)'",
+      "subtitle": "총 1획 · 곧게 선 기둥의 미학",
+      "image": "https://picsum.photos/seed/char_hv_i/400/300",
+      "tags": [
+        "한글",
+        "기본 모음",
+        "1획"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "한글 '애 (ㅐ)'",
+      "subtitle": "총 3획 · 아와 이의 단단한 만남",
+      "image": "https://picsum.photos/seed/char_hv_ae/400/300",
+      "tags": [
+        "한글",
+        "이중 모음",
+        "3획"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "한글 '얘 (ㅒ)'",
+      "subtitle": "총 4획 · 야와 이의 다정한 조화",
+      "image": "https://picsum.photos/seed/char_hv_yae/400/300",
+      "tags": [
+        "한글",
+        "이중 모음",
+        "4획"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "한글 '에 (ㅔ)'",
+      "subtitle": "총 3획 · 어와 이가 이룬 균형",
+      "image": "https://picsum.photos/seed/char_hv_e/400/300",
+      "tags": [
+        "한글",
+        "이중 모음",
+        "3획"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "한글 '예 (ㅖ)'",
+      "subtitle": "총 4획 · 여와 이의 세련된 조형",
+      "image": "https://picsum.photos/seed/char_hv_ye/400/300",
+      "tags": [
+        "한글",
+        "이중 모음",
+        "4획"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "한글 '와 (ㅘ)'",
+      "subtitle": "총 4획 · 오와 아가 합쳐진 밝은 울림",
+      "image": "https://picsum.photos/seed/char_hv_wa/400/300",
+      "tags": [
+        "한글",
+        "이중 모음",
+        "4획"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "한글 '왜 (ㅙ)'",
+      "subtitle": "총 5획 · 오와 애의 풍성한 모음",
+      "image": "https://picsum.photos/seed/char_hv_wae/400/300",
+      "tags": [
+        "한글",
+        "이중 모음",
+        "5획"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "한글 '외 (ㅚ)'",
+      "subtitle": "총 3획 · 오와 이의 산뜻한 만남",
+      "image": "https://picsum.photos/seed/char_hv_oe/400/300",
+      "tags": [
+        "한글",
+        "이중 모음",
+        "3획"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "한글 '워 (ㅝ)'",
+      "subtitle": "총 4획 · 우와 어의 부드러운 연결",
+      "image": "https://picsum.photos/seed/char_hv_wo/400/300",
+      "tags": [
+        "한글",
+        "이중 모음",
+        "4획"
+      ]
+    },
+    {
+      "id": 38,
+      "title": "한글 '웨 (ㅞ)'",
+      "subtitle": "총 5획 · 우와 에가 만난 다채로운 형태",
+      "image": "https://picsum.photos/seed/char_hv_we/400/300",
+      "tags": [
+        "한글",
+        "이중 모음",
+        "5획"
+      ]
+    },
+    {
+      "id": 39,
+      "title": "한글 '위 (ㅟ)'",
+      "subtitle": "총 3획 · 우와 이가 세운 안테나",
+      "image": "https://picsum.photos/seed/char_hv_wi/400/300",
+      "tags": [
+        "한글",
+        "이중 모음",
+        "3획"
+      ]
+    },
+    {
+      "id": 40,
+      "title": "한글 '의 (ㅢ)'",
+      "subtitle": "총 2획 · 으와 이의 단아한 선",
+      "image": "https://picsum.photos/seed/char_hv_ui/400/300",
+      "tags": [
+        "한글",
+        "이중 모음",
+        "2획"
+      ]
+    },
+    {
+      "id": 41,
+      "title": "히라가나 '아 (あ)'",
+      "subtitle": "총 3획 · 3획의 곡선 조화",
+      "image": "https://picsum.photos/seed/hira_1/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 42,
+      "title": "히라가나 '이 (い)'",
+      "subtitle": "총 2획 · 마주보는 두 곡선의 리듬",
+      "image": "https://picsum.photos/seed/hira_2/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 43,
+      "title": "히라가나 '우 (う)'",
+      "subtitle": "총 2획 · 점과 둥근 굽은 획",
+      "image": "https://picsum.photos/seed/hira_3/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 44,
+      "title": "히라가나 '에 (え)'",
+      "subtitle": "총 2획 · 지그재그와 곡선의 만남",
+      "image": "https://picsum.photos/seed/hira_4/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 45,
+      "title": "히라가나 '오 (お)'",
+      "subtitle": "총 3획 · 십자획과 둥근 매듭 점",
+      "image": "https://picsum.photos/seed/hira_5/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 46,
+      "title": "히라가나 '카 (か)'",
+      "subtitle": "총 3획 · 힘찬 곡선과 곁점",
+      "image": "https://picsum.photos/seed/hira_6/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 47,
+      "title": "히라가나 '키 (き)'",
+      "subtitle": "총 4획 · 수평선 두 개와 사선 관통",
+      "image": "https://picsum.photos/seed/hira_7/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "4획"
+      ]
+    },
+    {
+      "id": 48,
+      "title": "히라가나 '쿠 (く)'",
+      "subtitle": "총 1획 · 꺾이는 하나의 부드러운 사선",
+      "image": "https://picsum.photos/seed/hira_8/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "1획"
+      ]
+    },
+    {
+      "id": 49,
+      "title": "히라가나 '케 (け)'",
+      "subtitle": "총 3획 · 곧은 기둥과 휘어지는 획",
+      "image": "https://picsum.photos/seed/hira_9/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 50,
+      "title": "히라가나 '코 (こ)'",
+      "subtitle": "총 2획 · 위아래 평행한 부드러운 획",
+      "image": "https://picsum.photos/seed/hira_10/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 51,
+      "title": "히라가나 '사 (さ)'",
+      "subtitle": "총 3획 · 우아하게 꺾이는 사선",
+      "image": "https://picsum.photos/seed/hira_11/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 52,
+      "title": "히라가나 '시 (し)'",
+      "subtitle": "총 1획 · 낚싯바늘처럼 솟아오른 획",
+      "image": "https://picsum.photos/seed/hira_12/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "1획"
+      ]
+    },
+    {
+      "id": 53,
+      "title": "히라가나 '스 (す)'",
+      "subtitle": "총 2획 · 가로획을 관통하는 고리",
+      "image": "https://picsum.photos/seed/hira_13/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 54,
+      "title": "히라가나 '세 (せ)'",
+      "subtitle": "총 3획 · 가로획과 지탱하는 두 선",
+      "image": "https://picsum.photos/seed/hira_14/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 55,
+      "title": "히라가나 '소 (そ)'",
+      "subtitle": "총 1획 · 지그재그로 이어지는 한 붓 그리기",
+      "image": "https://picsum.photos/seed/hira_15/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "1획"
+      ]
+    },
+    {
+      "id": 56,
+      "title": "히라가나 '타 (た)'",
+      "subtitle": "총 4획 · 십자와 작은 코의 조합",
+      "image": "https://picsum.photos/seed/hira_16/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "4획"
+      ]
+    },
+    {
+      "id": 57,
+      "title": "히라가나 '치 (ち)'",
+      "subtitle": "총 2획 · 수평선 아래 큰 고리",
+      "image": "https://picsum.photos/seed/hira_17/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 58,
+      "title": "히라가나 '츠 (つ)'",
+      "subtitle": "총 1획 · 넓게 휘어지는 파도 곡선",
+      "image": "https://picsum.photos/seed/hira_18/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "1획"
+      ]
+    },
+    {
+      "id": 59,
+      "title": "히라가나 '테 (て)'",
+      "subtitle": "총 1획 · 수평선에서 둥글게 감기는 획",
+      "image": "https://picsum.photos/seed/hira_19/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "1획"
+      ]
+    },
+    {
+      "id": 60,
+      "title": "히라가나 '토 (と)'",
+      "subtitle": "총 2획 · 기둥에 안긴 반원",
+      "image": "https://picsum.photos/seed/hira_20/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 61,
+      "title": "히라가나 '나 (な)'",
+      "subtitle": "총 4획 · 십자 획과 고리 매듭",
+      "image": "https://picsum.photos/seed/hira_21/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "4획"
+      ]
+    },
+    {
+      "id": 62,
+      "title": "히라가나 '니 (に)'",
+      "subtitle": "총 3획 · 곧은 선과 평행 곡선",
+      "image": "https://picsum.photos/seed/hira_22/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 63,
+      "title": "히라가나 '누 (ぬ)'",
+      "subtitle": "총 2획 · 복잡하게 얽히는 고리 획",
+      "image": "https://picsum.photos/seed/hira_23/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 64,
+      "title": "히라가나 '네 (ね)'",
+      "subtitle": "총 2획 · 기둥에서 이어지는 매듭",
+      "image": "https://picsum.photos/seed/hira_24/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 65,
+      "title": "히라가나 '노 (の)'",
+      "subtitle": "총 1획 · 매끄럽게 돌아나오는 원형 획",
+      "image": "https://picsum.photos/seed/hira_25/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "1획"
+      ]
+    },
+    {
+      "id": 66,
+      "title": "히라가나 '하 (は)'",
+      "subtitle": "총 3획 · 기둥과 우측의 고리 매듭",
+      "image": "https://picsum.photos/seed/hira_26/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 67,
+      "title": "히라가나 '히 (ひ)'",
+      "subtitle": "총 1획 · 움푹 파인 부드러운 미소선",
+      "image": "https://picsum.photos/seed/hira_27/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "1획"
+      ]
+    },
+    {
+      "id": 68,
+      "title": "히라가나 '후 (ふ)'",
+      "subtitle": "총 4획 · 공중에 떠 있는 네 개의 점획",
+      "image": "https://picsum.photos/seed/hira_28/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "4획"
+      ]
+    },
+    {
+      "id": 69,
+      "title": "히라가나 '헤 (へ)'",
+      "subtitle": "총 1획 · 산봉우리 모양의 한 획",
+      "image": "https://picsum.photos/seed/hira_29/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "1획"
+      ]
+    },
+    {
+      "id": 70,
+      "title": "히라가나 '호 (ほ)'",
+      "subtitle": "총 4획 · 덮개와 기둥 아래 매듭",
+      "image": "https://picsum.photos/seed/hira_30/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "4획"
+      ]
+    },
+    {
+      "id": 71,
+      "title": "히라가나 '마 (ま)'",
+      "subtitle": "총 3획 · 두 수평선을 엮는 고리",
+      "image": "https://picsum.photos/seed/hira_31/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 72,
+      "title": "히라가나 '미 (み)'",
+      "subtitle": "총 2획 · 휘어돌아 긋는 사선",
+      "image": "https://picsum.photos/seed/hira_32/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 73,
+      "title": "히라가나 '무 (む)'",
+      "subtitle": "총 3획 · 가로선과 고리, 끝점",
+      "image": "https://picsum.photos/seed/hira_33/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 74,
+      "title": "히라가나 '메 (め)'",
+      "subtitle": "총 2획 · 사선을 감싸는 둥근 선",
+      "image": "https://picsum.photos/seed/hira_34/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 75,
+      "title": "히라가나 '모 (も)'",
+      "subtitle": "총 3획 · 낚싯바늘을 가로지르는 두 선",
+      "image": "https://picsum.photos/seed/hira_35/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 76,
+      "title": "히라가나 '야 (や)'",
+      "subtitle": "총 3획 · 솟구치는 뿔과 두 곁점",
+      "image": "https://picsum.photos/seed/hira_36/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 77,
+      "title": "히라가나 '유 (ゆ)'",
+      "subtitle": "총 2획 · 돌아올라 관통하는 세로획",
+      "image": "https://picsum.photos/seed/hira_37/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 78,
+      "title": "히라가나 '요 (よ)'",
+      "subtitle": "총 2획 · 짧은 가로획과 고리 세로획",
+      "image": "https://picsum.photos/seed/hira_38/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 79,
+      "title": "히라가나 '라 (ら)'",
+      "subtitle": "총 2획 · 머리 위 점과 둥근 등선",
+      "image": "https://picsum.photos/seed/hira_39/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 80,
+      "title": "히라가나 '리 (り)'",
+      "subtitle": "총 2획 · 짧은 좌선과 긴 우선의 조화",
+      "image": "https://picsum.photos/seed/hira_40/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 81,
+      "title": "히라가나 '루 (る)'",
+      "subtitle": "총 1획 · 지그재그에서 작은 고리로 마무리",
+      "image": "https://picsum.photos/seed/hira_41/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "1획"
+      ]
+    },
+    {
+      "id": 82,
+      "title": "히라가나 '레 (れ)'",
+      "subtitle": "총 2획 · 곧은 기둥과 바깥으로 뻗은 꼬리",
+      "image": "https://picsum.photos/seed/hira_42/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 83,
+      "title": "히라가나 '로 (ろ)'",
+      "subtitle": "총 1획 · 고리 없이 시원하게 끝나는 획",
+      "image": "https://picsum.photos/seed/hira_43/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "1획"
+      ]
+    },
+    {
+      "id": 84,
+      "title": "히라가나 '와 (わ)'",
+      "subtitle": "총 2획 · 곧은 기둥과 둥근 등",
+      "image": "https://picsum.photos/seed/hira_44/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 85,
+      "title": "히라가나 '오 (を)'",
+      "subtitle": "총 3획 · 층층이 꺾이는 문법 조사 글자",
+      "image": "https://picsum.photos/seed/hira_45/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 86,
+      "title": "히라가나 '응 (ん)'",
+      "subtitle": "총 1획 · 영어 n처럼 뻗어나가는 꼬리",
+      "image": "https://picsum.photos/seed/hira_46/400/300",
+      "tags": [
+        "히라가나",
+        "오십음도",
+        "1획"
+      ]
+    },
+    {
+      "id": 87,
+      "title": "가타카나 '아 (ア)'",
+      "subtitle": "총 2획 · 2획의 직선과 꺾임",
+      "image": "https://picsum.photos/seed/kata_1/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 88,
+      "title": "가타카나 '이 (イ)'",
+      "subtitle": "총 2획 · 사선과 세로 기둥",
+      "image": "https://picsum.photos/seed/kata_2/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 89,
+      "title": "가타카나 '우 (ウ)'",
+      "subtitle": "총 3획 · 머리 위 점과 덮개 획",
+      "image": "https://picsum.photos/seed/kata_3/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 90,
+      "title": "가타카나 '에 (エ)'",
+      "subtitle": "총 3획 · 위아래 들보와 중심 기둥",
+      "image": "https://picsum.photos/seed/kata_4/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 91,
+      "title": "가타카나 '오 (オ)'",
+      "subtitle": "총 3획 · 십자 획과 좌측 삐침",
+      "image": "https://picsum.photos/seed/kata_5/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 92,
+      "title": "가타카나 '카 (カ)'",
+      "subtitle": "총 2획 · 힘차게 꺾이는 꺾쇠 획",
+      "image": "https://picsum.photos/seed/kata_6/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 93,
+      "title": "가타카나 '키 (キ)'",
+      "subtitle": "총 3획 · 두 수평선과 날카로운 관통선",
+      "image": "https://picsum.photos/seed/kata_7/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 94,
+      "title": "가타카나 '쿠 (ク)'",
+      "subtitle": "총 2획 · 삐침과 꺾어내리는 선",
+      "image": "https://picsum.photos/seed/kata_8/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 95,
+      "title": "가타카나 '케 (ケ)'",
+      "subtitle": "총 3획 · 사선과 수평, 관통선",
+      "image": "https://picsum.photos/seed/kata_9/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 96,
+      "title": "가타카나 '코 (コ)'",
+      "subtitle": "총 2획 · 디귿을 뒤집은 형태의 각진 획",
+      "image": "https://picsum.photos/seed/kata_10/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 97,
+      "title": "가타카나 '사 (サ)'",
+      "subtitle": "총 3획 · 수평선과 두 개의 세로 기둥",
+      "image": "https://picsum.photos/seed/kata_11/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 98,
+      "title": "가타카나 '시 (シ)'",
+      "subtitle": "총 3획 · 아래에서 위로 치켜올리는 획",
+      "image": "https://picsum.photos/seed/kata_12/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 99,
+      "title": "가타카나 '스 (ス)'",
+      "subtitle": "총 2획 · 꺾쇠와 우하향 사선",
+      "image": "https://picsum.photos/seed/kata_13/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 100,
+      "title": "가타카나 '세 (セ)'",
+      "subtitle": "총 2획 · 각진 덮개와 받침선",
+      "image": "https://picsum.photos/seed/kata_14/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 101,
+      "title": "가타카나 '소 (ソ)'",
+      "subtitle": "총 2획 · 위에서 아래로 떨어지는 두 획",
+      "image": "https://picsum.photos/seed/kata_15/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 102,
+      "title": "가타카나 '타 (タ)'",
+      "subtitle": "총 3획 · 크에 사선이 더해진 형태",
+      "image": "https://picsum.photos/seed/kata_16/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 103,
+      "title": "가타카나 '치 (チ)'",
+      "subtitle": "총 3획 · 빗장과 십자의 결합",
+      "image": "https://picsum.photos/seed/kata_17/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 104,
+      "title": "가타카나 '츠 (ツ)'",
+      "subtitle": "총 3획 · 위에서 아래로 찍는 세 점획",
+      "image": "https://picsum.photos/seed/kata_18/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 105,
+      "title": "가타카나 '테 (テ)'",
+      "subtitle": "총 3획 · 두 개의 수평선과 둥근 사선",
+      "image": "https://picsum.photos/seed/kata_19/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 106,
+      "title": "가타카나 '토 (ト)'",
+      "subtitle": "총 2획 · 세로 기둥과 우측 곁가지",
+      "image": "https://picsum.photos/seed/kata_20/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 107,
+      "title": "가타카나 '나 (ナ)'",
+      "subtitle": "총 2획 · 십자 형태의 기본 골격",
+      "image": "https://picsum.photos/seed/kata_21/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 108,
+      "title": "가타카나 '니 (ニ)'",
+      "subtitle": "총 2획 · 위아래 평행한 두 개의 직선",
+      "image": "https://picsum.photos/seed/kata_22/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 109,
+      "title": "가타카나 '누 (ヌ)'",
+      "subtitle": "총 2획 · 꺾쇠와 사선 교차",
+      "image": "https://picsum.photos/seed/kata_23/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 110,
+      "title": "가타카나 '네 (ネ)'",
+      "subtitle": "총 4획 · 제사 지내는 지신 제단 형태",
+      "image": "https://picsum.photos/seed/kata_24/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "4획"
+      ]
+    },
+    {
+      "id": 111,
+      "title": "가타카나 '노 (ノ)'",
+      "subtitle": "총 1획 · 시원하게 좌하향으로 내리긋는 한 획",
+      "image": "https://picsum.photos/seed/kata_25/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "1획"
+      ]
+    },
+    {
+      "id": 112,
+      "title": "가타카나 '하 (ハ)'",
+      "subtitle": "총 2획 · 사람 인 모양으로 벌어지는 두 선",
+      "image": "https://picsum.photos/seed/kata_26/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 113,
+      "title": "가타카나 '히 (ヒ)'",
+      "subtitle": "총 2획 · 스푼 모양으로 꺾이는 직선",
+      "image": "https://picsum.photos/seed/kata_27/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 114,
+      "title": "가타카나 '후 (フ)'",
+      "subtitle": "총 1획 · 단순하고 경쾌한 기역 반전 획",
+      "image": "https://picsum.photos/seed/kata_28/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "1획"
+      ]
+    },
+    {
+      "id": 115,
+      "title": "가타카나 '헤 (ヘ)'",
+      "subtitle": "총 1획 · 꺾이는 지붕 모양 한 획",
+      "image": "https://picsum.photos/seed/kata_29/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "1획"
+      ]
+    },
+    {
+      "id": 116,
+      "title": "가타카나 '호 (ホ)'",
+      "subtitle": "총 4획 · 십자 기둥 좌우에 찍힌 두 점",
+      "image": "https://picsum.photos/seed/kata_30/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "4획"
+      ]
+    },
+    {
+      "id": 117,
+      "title": "가타카나 '마 (マ)'",
+      "subtitle": "총 2획 · 각진 꺾쇠 아래 점선",
+      "image": "https://picsum.photos/seed/kata_31/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 118,
+      "title": "가타카나 '미 (ミ)'",
+      "subtitle": "총 3획 · 나란히 그어지는 세 개의 사선",
+      "image": "https://picsum.photos/seed/kata_32/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 119,
+      "title": "가타카나 '무 (ム)'",
+      "subtitle": "총 2획 · 세모꼴을 그리는 간결한 획",
+      "image": "https://picsum.photos/seed/kata_33/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 120,
+      "title": "가타카나 '메 (メ)'",
+      "subtitle": "총 2획 · 엑스(X)자로 교차하는 두 사선",
+      "image": "https://picsum.photos/seed/kata_34/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 121,
+      "title": "가타카나 '모 (モ)'",
+      "subtitle": "총 3획 · 수평선 두 개와 세로 꺾임선",
+      "image": "https://picsum.photos/seed/kata_35/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 122,
+      "title": "가타카나 '야 (ヤ)'",
+      "subtitle": "총 2획 · 꺾쇠와 세로 빗장",
+      "image": "https://picsum.photos/seed/kata_36/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 123,
+      "title": "가타카나 '유 (ユ)'",
+      "subtitle": "총 2획 · 기둥과 아래 받침 직선",
+      "image": "https://picsum.photos/seed/kata_37/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 124,
+      "title": "가타카나 '요 (ヨ)'",
+      "subtitle": "총 3획 · 세 개의 가지가 뻗은 빗 모양",
+      "image": "https://picsum.photos/seed/kata_38/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 125,
+      "title": "가타카나 '라 (ラ)'",
+      "subtitle": "총 2획 · 가로선 아래 꺾쇠",
+      "image": "https://picsum.photos/seed/kata_39/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 126,
+      "title": "가타카나 '리 (リ)'",
+      "subtitle": "총 2획 · 나란히 선 두 개의 수직선",
+      "image": "https://picsum.photos/seed/kata_40/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 127,
+      "title": "가타카나 '루 (ル)'",
+      "subtitle": "총 2획 · 왼쪽 삐침과 오른쪽 치켜올림",
+      "image": "https://picsum.photos/seed/kata_41/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 128,
+      "title": "가타카나 '레 (レ)'",
+      "subtitle": "총 1획 · 아래로 내려오다 낚아채는 획",
+      "image": "https://picsum.photos/seed/kata_42/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "1획"
+      ]
+    },
+    {
+      "id": 129,
+      "title": "가타카나 '로 (ロ)'",
+      "subtitle": "총 3획 · 완벽한 정사각형 블록 형태",
+      "image": "https://picsum.photos/seed/kata_43/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 130,
+      "title": "가타카나 '와 (ワ)'",
+      "subtitle": "총 2획 · 각진 덮개와 내려오는 기둥",
+      "image": "https://picsum.photos/seed/kata_44/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 131,
+      "title": "가타카나 '오 (ヲ)'",
+      "subtitle": "총 3획 · 가로선과 꺾임의 조사 부호",
+      "image": "https://picsum.photos/seed/kata_45/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "3획"
+      ]
+    },
+    {
+      "id": 132,
+      "title": "가타카나 '응 (ン)'",
+      "subtitle": "총 2획 · 좌하단에서 우상단으로 솟는 획",
+      "image": "https://picsum.photos/seed/kata_46/400/300",
+      "tags": [
+        "가타카나",
+        "오십음도",
+        "2획"
+      ]
+    },
+    {
+      "id": 133,
+      "title": "한자 '한 일 (一)'",
+      "subtitle": "총 1획 · 모든 수의 시작을 알리는 단 한 획",
+      "image": "https://picsum.photos/seed/hanja_1/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "1획"
+      ]
+    },
+    {
+      "id": 134,
+      "title": "한자 '두 이 (二)'",
+      "subtitle": "총 2획 · 하늘과 땅을 잇는 두 개의 평행선",
+      "image": "https://picsum.photos/seed/hanja_2/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "2획"
+      ]
+    },
+    {
+      "id": 135,
+      "title": "한자 '석 삼 (三)'",
+      "subtitle": "총 3획 · 하늘, 땅, 사람의 세 줄기 빛",
+      "image": "https://picsum.photos/seed/hanja_3/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "3획"
+      ]
+    },
+    {
+      "id": 136,
+      "title": "한자 '넉 사 (四)'",
+      "subtitle": "총 5획 · 사방을 둘러싼 울타리와 기둥",
+      "image": "https://picsum.photos/seed/hanja_4/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "5획"
+      ]
+    },
+    {
+      "id": 137,
+      "title": "한자 '다섯 오 (五)'",
+      "subtitle": "총 4획 · 음양오행의 중심을 잡는 획",
+      "image": "https://picsum.photos/seed/hanja_5/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "4획"
+      ]
+    },
+    {
+      "id": 138,
+      "title": "한자 '여섯 육 (六)'",
+      "subtitle": "총 4획 · 머리 위 점과 두 다리의 균형",
+      "image": "https://picsum.photos/seed/hanja_6/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "4획"
+      ]
+    },
+    {
+      "id": 139,
+      "title": "한자 '일곱 칠 (七)'",
+      "subtitle": "총 2획 · 가로선을 가로질러 솟는 갈고리",
+      "image": "https://picsum.photos/seed/hanja_7/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "2획"
+      ]
+    },
+    {
+      "id": 140,
+      "title": "한자 '여덟 팔 (八)'",
+      "subtitle": "총 2획 · 좌우로 너그럽게 갈라지는 두 획",
+      "image": "https://picsum.photos/seed/hanja_8/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "2획"
+      ]
+    },
+    {
+      "id": 141,
+      "title": "한자 '아홉 구 (九)'",
+      "subtitle": "총 2획 · 굽어 돌아가는 용의 꼬리 모양",
+      "image": "https://picsum.photos/seed/hanja_9/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "2획"
+      ]
+    },
+    {
+      "id": 142,
+      "title": "한자 '열 십 (十)'",
+      "subtitle": "총 2획 · 동서남북이 만나는 완전한 교차점",
+      "image": "https://picsum.photos/seed/hanja_10/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "2획"
+      ]
+    },
+    {
+      "id": 143,
+      "title": "한자 '날 일 (日)'",
+      "subtitle": "총 4획 · 둥근 해 속에 빛나는 중심 흑점",
+      "image": "https://picsum.photos/seed/hanja_11/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "4획"
+      ]
+    },
+    {
+      "id": 144,
+      "title": "한자 '달 월 (月)'",
+      "subtitle": "총 4획 · 초승달 모양 속에 깃든 밤의 정취",
+      "image": "https://picsum.photos/seed/hanja_12/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "4획"
+      ]
+    },
+    {
+      "id": 145,
+      "title": "한자 '불 화 (火)'",
+      "subtitle": "총 4획 · 타오르는 중심 불과 튀는 불씨들",
+      "image": "https://picsum.photos/seed/hanja_13/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "4획"
+      ]
+    },
+    {
+      "id": 146,
+      "title": "한자 '물 수 (水)'",
+      "subtitle": "총 4획 · 중심 갈고리와 굽이쳐 흩날리는 물결",
+      "image": "https://picsum.photos/seed/hanja_14/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "4획"
+      ]
+    },
+    {
+      "id": 147,
+      "title": "한자 '나무 목 (木)'",
+      "subtitle": "총 4획 · 든든한 줄기와 사방으로 뻗은 뿌리",
+      "image": "https://picsum.photos/seed/hanja_15/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "4획"
+      ]
+    },
+    {
+      "id": 148,
+      "title": "한자 '쇠 금 (金)'",
+      "subtitle": "총 8획 · 지붕 아래 흙 속에 묻힌 두 알의 황금",
+      "image": "https://picsum.photos/seed/hanja_16/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "8획"
+      ]
+    },
+    {
+      "id": 149,
+      "title": "한자 '흙 토 (土)'",
+      "subtitle": "총 3획 · 대지 위에 생명의 싹이 돋아난 형상",
+      "image": "https://picsum.photos/seed/hanja_17/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "3획"
+      ]
+    },
+    {
+      "id": 150,
+      "title": "한자 '하늘 천 (天)'",
+      "subtitle": "총 4획 · 사람 머리 위에 넓게 펼쳐진 큰 하늘",
+      "image": "https://picsum.photos/seed/hanja_18/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "4획"
+      ]
+    },
+    {
+      "id": 151,
+      "title": "한자 '땅 지 (地)'",
+      "subtitle": "총 6획 · 흙과 뱀처럼 꿈틀대는 대지의 기운",
+      "image": "https://picsum.photos/seed/hanja_19/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "6획"
+      ]
+    },
+    {
+      "id": 152,
+      "title": "한자 '사람 인 (人)'",
+      "subtitle": "총 2획 · 두 사람이 서로 등을 기대어 선 모습",
+      "image": "https://picsum.photos/seed/hanja_20/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "2획"
+      ]
+    },
+    {
+      "id": 153,
+      "title": "한자 '뫼 산 (山)'",
+      "subtitle": "총 3획 · 우뚝 솟은 세 개의 산봉우리 절경",
+      "image": "https://picsum.photos/seed/hanja_21/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "3획"
+      ]
+    },
+    {
+      "id": 154,
+      "title": "한자 '내 천 (川)'",
+      "subtitle": "총 3획 · 나란히 굽이쳐 흘러가는 세 줄기 물길",
+      "image": "https://picsum.photos/seed/hanja_22/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "3획"
+      ]
+    },
+    {
+      "id": 155,
+      "title": "한자 '큰 대 (大)'",
+      "subtitle": "총 3획 · 팔다리를 힘껏 벌리고 선 웅장한 모습",
+      "image": "https://picsum.photos/seed/hanja_23/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "3획"
+      ]
+    },
+    {
+      "id": 156,
+      "title": "한자 '작을 소 (小)'",
+      "subtitle": "총 3획 · 한 줄기 중심선 좌우에 찍힌 작은 점",
+      "image": "https://picsum.photos/seed/hanja_24/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "3획"
+      ]
+    },
+    {
+      "id": 157,
+      "title": "한자 '가운데 중 (中)'",
+      "subtitle": "총 4획 · 깃발 중심을 곧게 관통하는 직선",
+      "image": "https://picsum.photos/seed/hanja_25/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "4획"
+      ]
+    },
+    {
+      "id": 158,
+      "title": "한자 '위 상 (上)'",
+      "subtitle": "총 3획 · 기준선 위로 힘차게 솟구친 기둥",
+      "image": "https://picsum.photos/seed/hanja_26/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "3획"
+      ]
+    },
+    {
+      "id": 159,
+      "title": "한자 '아래 하 (下)'",
+      "subtitle": "총 3획 · 기준선 아래로 든든히 내린 닻",
+      "image": "https://picsum.photos/seed/hanja_27/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "3획"
+      ]
+    },
+    {
+      "id": 160,
+      "title": "한자 '왼 좌 (左)'",
+      "subtitle": "총 5획 · 왼손에 도구를 쥐고 일하는 모습",
+      "image": "https://picsum.photos/seed/hanja_28/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "5획"
+      ]
+    },
+    {
+      "id": 161,
+      "title": "한자 '오른 우 (右)'",
+      "subtitle": "총 5획 · 오른손으로 음식을 먹는 입 모양",
+      "image": "https://picsum.photos/seed/hanja_29/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "5획"
+      ]
+    },
+    {
+      "id": 162,
+      "title": "한자 '문 문 (門)'",
+      "subtitle": "총 8획 · 양쪽으로 활짝 열리는 웅장한 두 짝 문",
+      "image": "https://picsum.photos/seed/hanja_30/400/300",
+      "tags": [
+        "한자",
+        "기초 한자",
+        "8획"
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "itemId": 1,
+      "text": "AI 필기 습관 분석: 가로획에서 세로획으로 꺾을 때 각도가 지나치게 둥글게 처리되는 경향이 있습니다.",
+      "date": "2026-10-28"
+    },
+    {
+      "id": 2,
+      "itemId": 1,
+      "text": "AI 필기 습관 분석: 획의 시작점에서 멈추지 않고 날리는 습관이 감지되었습니다. 1획 끝에서 살짝 힘을 유지하세요.",
+      "date": "2026-10-28"
+    },
+    {
+      "id": 3,
+      "itemId": 2,
+      "text": "AI 필기 습관 분석: 니은의 꺾임 각도가 90도보다 예각으로 좁아지는 경향이 있습니다.",
+      "date": "2026-10-28"
+    },
+    {
+      "id": 4,
+      "itemId": 41,
+      "text": "AI 필기 습관 분석: 3번째 매듭 획을 그릴 때 반시계 방향 원의 크기가 글자 전체 폭의 40%를 초과합니다.",
+      "date": "2026-10-28"
+    },
+    {
+      "id": 5,
+      "itemId": 87,
+      "text": "AI 필기 습관 분석: 2번째 획의 삐침 각도가 너무 가파릅니다. 45도 사선을 유지하도록 의식해 보세요.",
+      "date": "2026-10-28"
+    },
+    {
+      "id": 6,
+      "itemId": 133,
+      "text": "AI 필기 습관 분석: 수평 획을 그을 때 우측 상향 경사가 15도 이상 올라가는 습관이 있습니다.",
+      "date": "2026-10-28"
+    }
+  ]
+}
